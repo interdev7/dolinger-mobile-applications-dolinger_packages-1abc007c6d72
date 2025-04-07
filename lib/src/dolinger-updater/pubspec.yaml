@@ -4,7 +4,7 @@ description: Flutter package for prompting users to update with a native dialog 
 version: 0.1.1
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -12,7 +12,7 @@ dependencies:
   # package_info will help us to find current installed version of application.
   package_info: ^2.0.2
   # url_launcher will help us to trigger app store / play store url from our app.
-  url_launcher: ^6.0.10
+  url_launcher: ^6.3.1
   # Enables In App Updates on Android using the official Android APIs.
   in_app_update: ^4.2.3
 
